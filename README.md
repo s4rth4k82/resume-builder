@@ -1,4 +1,4 @@
-# React Firebase Auth
+# Resume Builder
 
 Resume Builder is a responsive web application built with React.js that allows users to create and customize their resumes online.
 
